@@ -1,8 +1,0 @@
-order_id,order_date,customer_id,product,quantity,unit_price
-O1001,2026-08-01,C001, wireless mouse ,2,799.00
-O1002,2026-08-02,C002,Keyboard,1,1499.00
-O1003,2026-08-02,C003,USB-C Cable,3,299.50
-O1004,2026-08-03,C999,Webcam,1,2499.00
-O1005,not-a-date,C001,Laptop Stand,1,1199.00
-O1006,2026-08-04,C004,Monitor,0,12499.00
-O1003,2026-08-02,C003,USB-C Cable,3,299.50
